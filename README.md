@@ -9,4 +9,10 @@ Finally tidying up my github repo 😬. Will be gradually uploading my past and 
 * Blockchain 
 <br/>(and also pretty UIs)
 
+## 🐱‍👤 A Little About Me 
+I'm currently exploring all various kinds of 
 
+- 🔭 Fact 1
+- 🌱 Fact 2
+- 💬 Fact 3
+-  ⚡ Fact 4
