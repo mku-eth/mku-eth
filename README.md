@@ -4,5 +4,5 @@ Finally tidying up my github repo 😬. Will be gradually uploading my past and 
 ## 👾 My Interests
 * Algorithmic Trading
 * Machine Learning
-* Blockchain
-(and also pretty UIs)
+* Blockchain 
+<br/>(and also pretty UIs)
