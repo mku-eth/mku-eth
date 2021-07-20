@@ -2,7 +2,7 @@
 Finally tidying up my github repo 😬. Will be gradually uploading my past and recent (mostly mini) projects here. 
 
 ## 👾 My Interests
-<img align= "right" width= "240" src="https://i.gifer.com/17xo.gif"/>
+<img align= "right" width= "240" src="https://media.giphy.com/media/zkMri4yiJ3Mdy/giphy.gif"/>
 
 * Algorithmic Trading
 * Machine Learning
