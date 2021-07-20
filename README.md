@@ -15,4 +15,4 @@ I'm currently exploring all various kinds of
 - 🔭 Fact 1
 - 🌱 Fact 2
 - 💬 Fact 3
--  ⚡ Fact 4
+- ⚡ Fact 4
