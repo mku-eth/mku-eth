@@ -5,6 +5,6 @@ Finally tidying up my github repo 😬. Will be gradually uploading my past and 
 <img align= "right" width= "150" src="https://media.giphy.com/media/zkMri4yiJ3Mdy/giphy.gif"/>
 
 * Algorithmic Trading
-* Machine Learning
-* Blockchain 
-<br/>(and also pretty UIs)
+* Machine Learning 
+* Blockchain Development 
+* WebDev
