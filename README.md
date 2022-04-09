@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Figo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-Computer Science Student
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 </p>
 
 <br>
