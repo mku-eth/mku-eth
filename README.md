@@ -1,7 +1,5 @@
 <h1 align="center">Hi , I'm Figo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br>
-
 ## :sassy_man:  About me
 - :school: I am a `Junior` studying Computer Science and Business
 - :computer: I’m currently learning `Web3` and `AI` development
